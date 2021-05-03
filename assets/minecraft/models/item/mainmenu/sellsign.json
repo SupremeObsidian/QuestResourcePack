@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/sellsign",
+		"particle": "block/sellsign"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 8],
+			"to": [24, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -176, 0],
+			"translation": [0, -13, 0],
+			"scale": [1.67, 1.67, 0]
+		}
+	}
+}
