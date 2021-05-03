@@ -58,6 +58,6 @@
         {"predicate": {"custom_model_data":50}, "model": "item/letters/cs_x"},
         {"predicate": {"custom_model_data":51}, "model": "item/letters/cs_y"},
         {"predicate": {"custom_model_data":52}, "model": "item/letters/cs_z"},
-        {"predicate": {"custom_model_data":53}, "model": "item/letters/cs_blank"},
+        {"predicate": {"custom_model_data":53}, "model": "item/letters/cs_blank"}
     ]  
 }
