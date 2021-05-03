@@ -59,6 +59,9 @@
         {"predicate": {"custom_model_data":51}, "model": "item/letters/cs_y"},
         {"predicate": {"custom_model_data":52}, "model": "item/letters/cs_z"},
         {"predicate": {"custom_model_data":53}, "model": "item/letters/cs_blank"},
-	{"predicate": {"custom_model_data":54}, "model": "item/sidequests/ambush"}
+	{"predicate": {"custom_model_data":54}, "model": "item/sidequests/ambushbr"},
+	{"predicate": {"custom_model_data":55}, "model": "item/sidequests/ambushbl"},
+	{"predicate": {"custom_model_data":56}, "model": "item/sidequests/ambushtr"},
+	{"predicate": {"custom_model_data":57}, "model": "item/sidequests/ambushtl"}
     ]  
 }
