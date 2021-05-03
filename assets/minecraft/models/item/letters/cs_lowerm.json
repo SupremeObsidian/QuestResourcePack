@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/centrescroll",
-		"particle": "block/centrescroll"
+		"0": "GuildGuiModels:block/centrescroll",
+		"particle": "GuildGuiModels:block/centrescroll"
 	},
 	"elements": [
 		{
@@ -11,7 +11,7 @@
 			"to": [16, 16, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 16]},
 			"faces": {
-				"north": {"uv": [3.15, 6.4, 4.75, 8], "texture": "#0"},
+				"north": {"uv": [3.15, 6.6, 4.75, 8.2], "texture": "#0"},
 				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
 				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
 				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
@@ -19,6 +19,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 3, 1],
