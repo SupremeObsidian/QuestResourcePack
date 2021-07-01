@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/totem_of_undying",
+		"particle": "item/totem_of_undying"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [43, 22, 0],
+			"translation": [-1.5, -0.5, -0.5],
+			"scale": [0.16, 0.16, 0.16]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [43, 22, 0],
+			"translation": [-1.5, -0.5, -0.5],
+			"scale": [0.16, 0.16, 0.16]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 22, 0],
+			"translation": [0.75, -0.5, -0.5],
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 22, 0],
+			"translation": [0.75, -0.5, -0.5],
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"ground": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -1.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [-0.75, 3.75, -7.25],
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"fixed": {
+			"translation": [0, 0, -1]
+		}
+	},
+	"groups": [
+		{
+			"name": "totem_of_undying",
+			"origin": [8, 8, 8],
+			"children": []
+		}
+	]
+}
