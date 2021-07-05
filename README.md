@@ -1,6 +1,6 @@
 # QuestResourcePack
 
-This is the Repository that houses the Resource pack that we use for the "Quest" Gamemode on SupremeObsidian.
+This is the Repository that houses the Resource pack that we use for the "Quest" Gamemode on Ethera
 
 ### Downloading the Resourcepack
 
